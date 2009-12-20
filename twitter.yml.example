@@ -1,0 +1,7 @@
+old:
+  login: oldlogin
+  password: oldpassword
+
+new:
+  login: newlogin
+  password: newpassword
